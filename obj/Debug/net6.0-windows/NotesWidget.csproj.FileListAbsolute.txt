@@ -1,0 +1,14 @@
+C:\Users\Albert Adroer\Desktop\NotesWidget\bin\Debug\net6.0-windows\NotesWidget.exe
+C:\Users\Albert Adroer\Desktop\NotesWidget\bin\Debug\net6.0-windows\NotesWidget.deps.json
+C:\Users\Albert Adroer\Desktop\NotesWidget\bin\Debug\net6.0-windows\NotesWidget.runtimeconfig.json
+C:\Users\Albert Adroer\Desktop\NotesWidget\bin\Debug\net6.0-windows\NotesWidget.dll
+C:\Users\Albert Adroer\Desktop\NotesWidget\bin\Debug\net6.0-windows\NotesWidget.pdb
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.AssemblyInfoInputs.cache
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.AssemblyInfo.cs
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.csproj.CoreCompileInputs.cache
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.dll
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\refint\NotesWidget.dll
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.pdb
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\NotesWidget.genruntimeconfig.cache
+C:\Users\Albert Adroer\Desktop\NotesWidget\obj\Debug\net6.0-windows\ref\NotesWidget.dll
